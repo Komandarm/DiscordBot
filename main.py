@@ -5,7 +5,7 @@ import asyncio
 
 client = commands.Bot(command_prefix='T!')
 
-token = "OTk3ODY5NDM3MDk5MTk2NTE3.GdNNGo.bMHEVlAcWf0H6ePGP2B0XuaYBoqCf_cmIEHnEQ"
+token = "OTk3ODY5NDM3MDk5MTk2NTE3.GFmxNo.Sc1gk_9SqWFzvSec4hHQHQ0MjQ5-DhdaJIc3g8"
 
 curseWord = ['Пидор', 'пидор', 'Блять', 'блять', 'бл', 'бля', 'Чурка', 'чурка', 'нигер', 'Нигер', 'Пидр', 'пидр', 'пидорас', 'Пидорас', 'ЧУРКА', 'ПИДР', 'ПИДОР', 'НИГЕР', 'ПИДОРАС', 'НИГГЕР', 'ниггер', 'Ниггер', 'Хуесос', 'хуесос', 'ХУЕСОС', 'Еблан', 'еблан', 'ЕБЛАН', 'мразь', 'Мразь', 'МРАЗЬ', 'тварь', 'ТВАРЬ', 'Тварь', 'Еблан', 'еблан', 'ЕБЛАН', 'Идиот', 'идиот', 'ИДИОТ']
 
